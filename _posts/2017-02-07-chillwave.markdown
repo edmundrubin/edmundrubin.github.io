@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chillwave
+title: Sample
 date: 2017-02-07 00:00:00 +0000
 categories: 
 description: 

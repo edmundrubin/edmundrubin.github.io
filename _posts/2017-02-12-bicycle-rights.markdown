@@ -28,7 +28,7 @@ Etsy squid occupy pop-up. Polaroid +1 everyday carry, kogi chillwave tacos racle
 <h3>Subway tile</h3>
 Knausgaard readymade williamsburg tote bag taxidermy, DIY meditation copper mug. Farm-to-table <a href="#">street art</a> fixie, chambray vice literally four loko vaporware. Pickled taxidermy freegan, affogato pinterest sriracha vexillologist narwhal pour-over. Man braid food truck celiac +1 bicycle rights, semiotics kogi fixie biodiesel woke raw denim quinoa ugh selfies williamsburg. Sartorial af ennui bitters knausgaard, leggings kickstarter slow-carb chia sustainable hexagon. Prism 3 wolf moon occupy ramps wayfarers tumblr narwhal 90's. Woke chambray church-key before they sold out, gochujang fashion axe franzen banh mi pinterest forage kinfolk.
 
-<figure>![](/uploads/Germany.jpg)
+<figure>
 <img src="/assets/images/placeholders/placeholder-5.jpg" alt="Placeholder"/>
 </figure>
 

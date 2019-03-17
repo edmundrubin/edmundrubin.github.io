@@ -32,9 +32,7 @@ Knausgaard readymade williamsburg tote bag taxidermy, DIY meditation copper mug.
 <img src="/assets/images/placeholders/placeholder-5.jpg" alt="Placeholder"/>
 </figure>
 
-<figure class="large-img">
-<img src="/Photo 4-19-17, 4 59 18 PM.jpg" alt="Placeholder"/>
-</figure>
+<figure class="large-img"> <img src="/assets/images/germany.jpg" alt="Placeholder"/> </figure>
 
 Meh food truck tofu succulents, literally waistcoat skateboard poke pop-up cold-pressed put a bird on it cliche umami cornhole kale chips. Man braid 8-bit irony selvage, butcher blog everyday carry. Af meggings tacos ugh la croix skateboard. Biodiesel paleo prism kombucha seitan drinking vinegar. Single-origin coffee lo-fi cardigan, poutine roof party bitters taxidermy post-ironic umami vaporware. Austin edison bulb leggings cliche. Literally church-key umami, vegan irony art party vinyl edison bulb selfies lumbersexual deep v fingerstache flexitarian.
 

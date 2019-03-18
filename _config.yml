@@ -2,7 +2,7 @@
 baseurl: "" 
 
 # Color settings (Hex value without #)
-color_alpha: feeaeb
+color_alpha: eaeaea
 color_beta: 05009e
 
 # Google Analytics

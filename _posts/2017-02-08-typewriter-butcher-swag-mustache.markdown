@@ -4,7 +4,7 @@ title: Hello This is test
 date: 2017-02-08 00:00:00 +0000
 categories: 
 description: 
-image: "/assets/images/placeholders/placeholder-5.jpg"
+image: assets/images/color.jpg
 
 ---
 Polaroid tofu authentic kitsch thundercats dreamcatcher. Street art venmo small batch, brunch helvetica tilde XOXO pickled iceland kale chips gastropub. Yr tbh organic forage portland, sriracha polaroid cred pickled messenger bag. Bicycle rights leggings synth master cleanse normcore meh deep v, everyday carry pok pok man bun. Forage wolf man braid pug, chicharrones sartorial ramps lo-fi next level seitan meggings la croix bespoke small batch plaid. Synth chambray swag food truck roof party sustainable. Banh mi hot chicken viral, seitan mustache offal YOLO.
